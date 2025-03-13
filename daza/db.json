@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "role": "Manager",
+      "profile": "https://randomuser.me/api/portraits/men/1.jpg",
+      "email": "john.doe@example.com",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "firstName": "Jack",
+      "lastName": "Wills",
+      "role": "Senior Manager",
+      "profile": "https://randomuser.me/api/portraits/men/3.jpg",
+      "email": "jack.wills@example.com",
+      "password": "Jack@123"
+    }
+  ]
+}
